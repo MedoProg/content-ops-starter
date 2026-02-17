@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "الرئيسة",
-            "url": "/pricing",
+            "url": "/site",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
